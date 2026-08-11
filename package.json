@@ -1,0 +1,17 @@
+{
+  "name": "fileuploadFullFlow",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CloudApper file upload automation",
+  "main": "flow1.js",
+  "scripts": {
+    "start": "node flow1.js",
+    "check": "node --check flow1.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "form-data": "^4.0.0",
+    "mime-types": "^2.1.35",
+    "uuid": "^11.0.3"
+  }
+}
