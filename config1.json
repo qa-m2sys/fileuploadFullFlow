@@ -1,0 +1,16 @@
+{
+  "tokenUrl": "https://dev-account.cloudapper.com/connect/token",
+  "recordApi": "https://dev-api.cloudapper.com/api/v3/Records?records-required=true",
+  "fileApi": "https://dev-api.cloudapper.com/api/v3/Files",
+
+  "clientId": "crm_client_create_service",
+  "clientSecret": "YOUR_REAL_CLIENT_SECRET",
+
+  "appId": "f0e8e522-e2e6-4fe7-a41b-db6e93262a27",
+  "userId": "8af033c6-0ff0-4a5c-a916-7113924a86d6",
+  "clientAppId": "6759038900002644",
+
+  "typeId": "fc5b5d8a-41cc-4cd4-8693-ec7fbe5e48f4",
+  "fieldName": "multiFileField6",
+  "stringFieldName": "stringField14"
+}
